@@ -1,0 +1,6 @@
+{
+	"appId": "com.agiuliano.app",
+	"appName": "stencil-capacitor-avatar-component",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
